@@ -1,0 +1,11 @@
+.header-text{
+    color: white;
+    line-height: 100px;
+    text-align: center;
+}
+
+.header{
+    background-color: #007574;
+    height: 100px;
+    box-shadow: 1px 1px 10px 0px black;
+}
